@@ -1,4 +1,13 @@
 # LinuxMint_VisualCode_c++
 
-A small example of a c++ project on Linux Mint with gcc compiler using Visual Code Editor
+This is a small example of a c++ project on Linux Mint.
+ 
+Topics:
+
+* gnu-gcc 
+* gnu-gdb
+* cMake
+* Visual Studion Code
+
+
 
